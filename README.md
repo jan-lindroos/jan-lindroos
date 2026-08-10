@@ -2,6 +2,6 @@
 
 ## hi! i'm Jan
 
-i code mostly in Python (strongest), C++ and TS
+i'm a second-year maths and CS student at Warwick, a (student) research assistant at the Forecasting Research Institute and a research intern at Warwick DCS.
 
-currently working on getting better at PyTorch, pandas and Svelte
+i code mostly in Python, C++ and TS.
